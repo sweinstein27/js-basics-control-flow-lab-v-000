@@ -10,3 +10,5 @@ function scuberGreetingForFeet(someValue) {
     return 'I will gladly take your thirty bucks.';
   }
 }
+
+function ternaryCheckCity 'NYC' ? "Ok, sounds good." : "No go."
